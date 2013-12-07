@@ -1,4 +1,4 @@
-.cover-body { position:absolute;bottom:0;padding-bottom:25%; padding-left:38%;width:100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
+/*.cover-body { position:absolute;bottom:0;padding-bottom:25%; padding-left:38%;width:100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
 
 .cover-title{font-size:42px;line-height:1;color:#fff;margin-bottom:12px;text-shadow:0 1px 3px rgba(0,0,0,0.3);margin-left:100px;}
 
@@ -23,9 +23,9 @@ body {
 	font-family:"ff-tisa-web-pro",Georgia,Cambria,"Times New Roman",Times,serif;
 	font-weight:400;
 	font-style:italic;
-	/*background-image:asset-url('tapque.jpg');*/
+	background-image:asset-url('tapque.jpg');
 
-}
+}*/
 
 /*body
 {
